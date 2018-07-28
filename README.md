@@ -1,4 +1,4 @@
-# Package for: Analysis of static objects on GNSS single point positioning
+# Package for: Analysis of dynamic objects on GNSS single point positioning
 
 - Point clouds based object detection
 - Fault detection and exclusion (FDE)
