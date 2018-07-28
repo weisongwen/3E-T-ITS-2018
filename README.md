@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Package for: Analysis of static objects on GNSS single point positioning
 
 - Point clouds based object detection
@@ -56,7 +55,3 @@ The data is saved in Dropbox. The data for public will be opened soon,
 1. Wen, Weisong, Guohao Zhang, and Li-Ta Hsu. "Exclusion of GNSS NLOS receptions caused by dynamic objects in heavy traffic urban scenarios using real-time 3D point cloud: An approach without 3D maps." Position, Location and Navigation Symposium (PLANS), 2018 IEEE/ION. IEEE, 2018. (https://ieeexplore.ieee.org/abstract/document/8373377/)
 2. under review
 
-=======
-# 3E-T-ITS-2018
-Effects of dynamic objects on GNSS single point positioning
->>>>>>> f648390fabc5f622f58e682f0f72fc856d3dd024
